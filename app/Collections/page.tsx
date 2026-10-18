@@ -9,7 +9,7 @@ const collections = [
   {
     title: "Maxi / Frock",
     subtitle: "Traditional Elegance",
-    image: "/Maxis Frocks/Maxi1.jpeg",
+    image: "/Maxis Frocks/maxi1.jpeg",
     link: "/Collections/Maxi-Frock",
   },
   {
