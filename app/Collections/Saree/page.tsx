@@ -56,7 +56,7 @@ export default function Saree() {
               <div className="relative border border-[#d4af37]/25 bg-[#05070c] p-2 sm:p-3">
                 <div className="relative aspect-[3/4] overflow-hidden">
                   <Image
-                    src="/Saree/Saree1.jpeg"
+                    src="/Saree/saree1.jpeg"
                     alt="SD FASHION Saree collection"
                     fill
                     priority
