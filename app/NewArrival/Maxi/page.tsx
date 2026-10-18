@@ -186,7 +186,7 @@ const products = [
   {
     name: "Royal Party Frock",
     price: "PKR 11,000",
-    image: "/NewArrival/Frock/frock3.jpeg",
+    image: "/NewArrival/frock/frock3.jpeg",
   },
   {
     name: "Royal Embroidered Maxi",
@@ -206,7 +206,7 @@ const products = [
   {
     name: "Elegant Embroidered Frock",
     price: "PKR 9,000",
-    image: "/NewArrival/Frock/frock2.jpeg",
+    image: "/NewArrival/frock/frock2.jpeg",
   },
 ];
 
