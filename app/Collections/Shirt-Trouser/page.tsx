@@ -54,7 +54,7 @@ export default function ShirtTrouser() {
               <div className="relative border border-[#d4af37]/25 bg-[#05070c] p-2 sm:p-3">
                 <div className="relative aspect-[3/4] overflow-hidden">
                   <Image
-                    src="/Shirt Trouser/Shirt1.jpeg"
+                    src="/Shirt Trouser/shirt1.jpeg"
                     alt="SD FASHION Shirt Trouser collection"
                     fill
                     priority
