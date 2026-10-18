@@ -251,7 +251,7 @@ export default function Maxi() {
               <div className="relative border border-[#d4af37]/25 bg-[#05070c] p-2 sm:p-3">
                 <div className="relative aspect-[3/4] overflow-hidden">
                   <Image
-                    src="/Maxis Frocks/Maxi1.jpeg"
+                    src="/Maxis Frocks/maxi1.jpeg"
                     alt="SD FASHION Maxi collection"
                     fill
                     priority
