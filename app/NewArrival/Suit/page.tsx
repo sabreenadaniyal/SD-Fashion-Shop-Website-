@@ -7,7 +7,7 @@ import { ArrowLeft, ArrowRight, Sparkles } from "lucide-react";
 
 const products = [
   {
-    image: "/NewArrival/Suit/ShirtTrouser1.jpeg",
+    image: "/NewArrival/Suit/shirtTrouser1.jpeg",
     price: "PKR 12,500",
   },
   {
@@ -19,7 +19,7 @@ const products = [
     price: "PKR 8,500",
   },
   {
-    image: "/NewArrival/Suit/ShirtTrouser3.jpeg",
+    image: "/NewArrival/Suit/shirtTrouser3.jpeg",
     price: "PKR 7,500",
   },
 ];
